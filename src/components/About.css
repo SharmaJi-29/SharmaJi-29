@@ -1,0 +1,57 @@
+.about-grid {
+  gap: 3rem;
+  align-items: center;
+}
+
+.about-text {
+  padding: 2.5rem;
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: var(--text-secondary);
+}
+
+.about-text p {
+  margin-bottom: 1.5rem;
+}
+
+.about-text p:last-child {
+  margin-bottom: 0;
+}
+
+.about-highlights {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.highlight-card {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.5rem;
+  padding: 2rem;
+  transition: all 0.3s ease;
+}
+
+.highlight-card:hover {
+  transform: translateX(10px);
+  border-color: var(--accent-primary);
+  background: var(--card-hover);
+}
+
+.highlight-icon {
+  color: var(--accent-tertiary);
+  flex-shrink: 0;
+}
+
+.highlight-card h3 {
+  font-size: 1.2rem;
+  font-family: var(--font-heading);
+  color: var(--text-primary);
+  margin-bottom: 0.5rem;
+}
+
+.highlight-card p {
+  color: var(--text-secondary);
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
