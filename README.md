@@ -132,7 +132,7 @@ Continuously learning and exploring advanced topics like:
 
 ## 🚀 Projects & Research  
 
-### 🧠 AI-Powered Academic Assistant (RAG Based)  
+### 🧠 [AI-Powered Academic Assistant (RAG Based)](https://github.com/SharmaJi-29/AI-Powered-Academic-Assistant) 
 🗓️ Sep 2025 – Jan 2026  
 - Built an **AI learning assistant using RAG + NLP models**  
 - Features:
